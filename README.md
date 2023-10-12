@@ -4,4 +4,6 @@
 
 > 2: Ecom exercise: https://github.com/dontuty123/ecom-tutorial.git
 
->>> demo: [ecompractice.netlify.app](https://ecompractice.netlify.app/)
+>> demo: [ecompractice.netlify.app](https://ecompractice.netlify.app/)
+
+> 3: NextJS exercise: https://github.com/dontuty123/next_app.git
