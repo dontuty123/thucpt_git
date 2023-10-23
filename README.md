@@ -7,3 +7,5 @@
 >> demo: [ecompractice.netlify.app](https://ecompractice.netlify.app/)
 
 > 3: NextJS exercise: https://github.com/dontuty123/next_app.git
+
+> 4: NextJS Admin Dashboard : https://github.com/dontuty123/leon-dashboard.git
