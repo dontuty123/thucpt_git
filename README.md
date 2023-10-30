@@ -9,3 +9,9 @@
 > 3: NextJS exercise: https://github.com/dontuty123/next_app.git
 
 > 4: NextJS Admin Dashboard : https://github.com/dontuty123/leon-dashboard.git
+
+
+`test account
+    - owner role: testowner@owner.com / 123123
+    - admin role: testadmin@admin.com / 123123
+    `
