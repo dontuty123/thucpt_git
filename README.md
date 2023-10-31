@@ -10,9 +10,9 @@
 
 > 4: NextJS Admin Dashboard : https://github.com/dontuty123/leon-dashboard.git
 
-
-`test account
-    - owner role: testowner@owner.com / 123123
-    - admin role: testadmin@admin.com / 123123
-    - user role: testuser@user.com / 123123
-    `
+```bash
+- Test account:
+owner role: testowner@owner.com / 123123
+admin role: testadmin@admin.com / 123123
+user role: testuser@user.com / 123123
+```
