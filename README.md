@@ -14,4 +14,5 @@
 `test account
     - owner role: testowner@owner.com / 123123
     - admin role: testadmin@admin.com / 123123
+    - user role: testuser@user.com / 123123
     `
